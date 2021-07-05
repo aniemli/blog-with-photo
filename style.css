@@ -1,0 +1,10 @@
+body {
+    background-color: #7E57C2;
+    text-align: center;
+}
+
+.trees {
+    width: 500px;
+    height: 300px;
+    margin: 20px;
+}
